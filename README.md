@@ -1,8 +1,8 @@
 # TG-RENAMER-BOT
-## Rename Bot - Clone of  [Renamer⚡](https://t.me/renamer_Ns_bot)
+## Rename Bot - Clone of  [rkrj⚡](https://t.me/silentkilleroff)
 ---
 
-An Open Source Rename Telegram RoBot
+An closed Source Rename Telegram RoBot
 
 **My Feature**:
 
